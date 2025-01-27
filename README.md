@@ -44,6 +44,10 @@ Um site moderno e responsivo para o restaurante BURGUR, apresentando um design e
    - Cards de produtos
    - Funcionalidade de compra
 
+## Acesse o Site
+
+Visite nosso site em: [BURGUR](https://joao2666.github.io/burguer/)
+
 ## Instalação
 
 1. Clone o repositório
