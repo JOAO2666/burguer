@@ -1,59 +1,59 @@
-# BURGUR - The Ultimate Burger Experience
+# BURGUR - A Melhor Experiência em Hambúrgueres
 
-A modern, responsive website for BURGUR restaurant, featuring a sleek design and smooth animations.
+Um site moderno e responsivo para o restaurante BURGUR, apresentando um design elegante e animações suaves.
 
-## Features
+## Funcionalidades
 
-- Responsive design that works on all devices
-- Modern UI with glass-morphism effects
-- Smooth animations and transitions
-- Multiple pages:
-  - Home page with hero section
-  - Menu page with categories and items
-  - About page with company story
-  - Shop page with merchandise
+- Design responsivo que funciona em todos os dispositivos
+- Interface moderna com efeitos glass-morphism
+- Animações e transições suaves
+- Múltiplas páginas:
+  - Página inicial com seção principal
+  - Página de cardápio com categorias e itens
+  - Página sobre com história da empresa
+  - Loja com produtos exclusivos
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - HTML5
-- CSS3 with modern features
-- JavaScript for interactivity
-- Glass-morphism design elements
-- CSS Grid and Flexbox for layouts
+- CSS3 com recursos modernos
+- JavaScript para interatividade
+- Elementos de design glass-morphism
+- CSS Grid e Flexbox para layouts
 
-## Pages
+## Páginas
 
-1. **Home Page**
-   - Hero section with main burger showcase
-   - Animated elements
-   - Navigation to other sections
+1. **Página Inicial**
+   - Seção principal com destaque para hambúrguer
+   - Elementos animados
+   - Navegação para outras seções
 
-2. **Menu Page**
-   - Categories of food items
-   - Detailed menu cards
-   - Pricing information
-   - Order buttons
+2. **Página de Cardápio**
+   - Categorias de alimentos
+   - Cards detalhados do menu
+   - Informações de preço
+   - Botões de pedido
 
-3. **About Page**
-   - Company story
-   - Values and mission
-   - Visual content
+3. **Página Sobre**
+   - História da empresa
+   - Valores e missão
+   - Conteúdo visual
 
-4. **Shop Page**
-   - Merchandise display
-   - Product cards
-   - Shopping functionality
+4. **Página da Loja**
+   - Exibição de produtos
+   - Cards de produtos
+   - Funcionalidade de compra
 
-## Setup
+## Instalação
 
-1. Clone the repository
-2. Open index.html in your browser
-3. Navigate through the pages using the navigation menu
+1. Clone o repositório
+2. Abra o arquivo index.html no seu navegador
+3. Navegue pelas páginas usando o menu de navegação
 
-## Contributing
+## Contribuindo
 
-Feel free to submit issues and enhancement requests.
+Sinta-se à vontade para enviar issues e solicitações de melhorias.
 
-## License
+## Licença
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
